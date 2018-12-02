@@ -6,3 +6,7 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 This is git and github training
+## Git comparision of files and directories
+staging and working areas
+New comments added
+Git training
