@@ -8,11 +8,10 @@
 
 # THANKS
 
-    <name>
+    Supriya Maharani
 
 # TECHNOLOGY COLOPHON
-
-    HTML5, CSS3
+	HTML5, CSS3
     jQuery, Modernizr
     angular c++
     mod all the things
