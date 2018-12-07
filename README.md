@@ -10,3 +10,6 @@ This is git and github training
 staging and working areas
 New comments added
 Git training
+
+devops suprani
+aabbccc
