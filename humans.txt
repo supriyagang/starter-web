@@ -15,4 +15,5 @@
     jQuery, Modernizr
     angular c++
     mod all the things
+    machine learning aws google cloud
 
