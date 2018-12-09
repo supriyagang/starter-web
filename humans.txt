@@ -5,7 +5,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
-
+  email
 # THANKS
 
     Supriya Maharani
@@ -15,4 +15,5 @@
     jQuery, Modernizr
     angular c++
     mod all the things
+    Docker java programming C#
 
