@@ -7,6 +7,7 @@
     <name> -- <role> -- <twitter>
   email
 # THANKS
+Thanks to all my students
 
     Supriya Maharani
     crorier big beautiful manager
