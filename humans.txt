@@ -17,6 +17,6 @@ My students
     jQuery, Modernizr
     angular c++
     mod all the things
-
+    aws and suprani
     machine learning aws google cloud
 
