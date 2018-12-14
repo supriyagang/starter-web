@@ -13,3 +13,4 @@ Git training
 
 devops suprani
 aabbccc
+This is new things
