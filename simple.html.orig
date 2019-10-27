@@ -14,18 +14,23 @@
 <body>
 	<main class="container">
 	<!-- Content Goes Here -->
-	<p>	To merge stuff
-		
+		<p>
 		        Just some content
 			more content
 			suprani after changes in big trouble branch
+<<<<<<< HEAD
 			After commit big troubl
+=======
+>>>>>>> changes in big trouble branch
 		</p>
 	</main>
 	<footer class="container">
 		These are changes in feature inviting big trouble
 		because of conflict
-		<p>&copy; Company 2014 Supriya Gangolli</p>
+<<<<<<< HEAD
+=======
+		Should keep this or that
+>>>>>>> changes in big trouble branch
 		<p>&copy; Company 2014 Supriya Gangolli</p>
 	</footer>
 </body>
