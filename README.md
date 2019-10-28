@@ -10,3 +10,5 @@ This is purpose for staging only
 This is deployed in working area
 ## How to Contribute
 Do the reading and make some contribution
+## Copyright
+Supriya Gangolli 2019 All Rights Reserved
