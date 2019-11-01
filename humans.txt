@@ -21,4 +21,5 @@ new thing firm for rebase
     mod all the things
     aws and suprani
     machine learning aws google cloud
+    Please leave a review if you like the course
 
