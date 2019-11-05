@@ -22,4 +22,5 @@ new thing firm for rebase
     mod all the things
     aws and suprani
     machine learning aws google cloud
+    more and more technology
 
