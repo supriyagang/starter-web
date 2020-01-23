@@ -8,6 +8,7 @@ Supriya the delivery head and 5 POC teams
   email
 # THANKS
 Thanks to all my students
+Thanks again to all my students
 My students
 IT firm
 new thing firm for rebase
@@ -21,5 +22,9 @@ new thing firm for rebase
     mod all the things
     aws and suprani
     machine learning aws google cloud
+<<<<<<< HEAD
     Please leave a review if you like the course
+=======
+    more and more technology
+>>>>>>> 36fe10da51300661cd6f22688dea3c5dbdd73a73
 

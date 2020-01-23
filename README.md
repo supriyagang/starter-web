@@ -1,13 +1,14 @@
 # Starter Web Project
-
+Adding more and more to starting
+This is the starting
+more from master to feature
 ## Introduction
-
+This is intro
 ## Purpose
-
+This is purpose for staging only
 ## Deployment
-
+This is deployed in working area
 ## How to Contribute
-
-## New Section
 Do the reading and make some contribution
-Editing and testing for new stash changes
+## Copyright
+Supriya Gangolli 2019 All Rights Reserved
