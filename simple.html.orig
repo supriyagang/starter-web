@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <head>
-	<title>title for ny new branch</title>
+<<<<<<< HEAD
+	<title>A respectful websit</title >
+=======
+	<title>A great website</title >
+>>>>>>> realwork
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -12,26 +16,36 @@
 	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
 </head>
 <body>
+	<!--
+	 Copyright notice goes here
+	-->
 	<main class="container">
 	<!-- Content Goes Here -->
-		<p>
+	<p>	To merge stuff
+	For stash stuff
+		
 		        Just some content
+			simple content to test
 			more content
 			suprani after changes in big trouble branch
-<<<<<<< HEAD
 			After commit big troubl
+<<<<<<< HEAD
+			new changes
 =======
->>>>>>> changes in big trouble branch
+			Lot more things for merge conflict
+>>>>>>> realwork
 		</p>
 	</main>
 	<footer class="container">
 		These are changes in feature inviting big trouble
 		because of conflict
 <<<<<<< HEAD
-=======
-		Should keep this or that
->>>>>>> changes in big trouble branch
 		<p>&copy; Company 2014 Supriya Gangolli</p>
+		<p>&copy; Company 2016 Supriya Gangolli</p>
+=======
+		<p>&copy; Company 2015 Supriya Gangolli</p>
+		<p>&copy; Company 2014 Supriya Gangolli</p>
+>>>>>>> realwork
 	</footer>
 </body>
 </html>

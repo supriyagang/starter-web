@@ -1,2 +1,4 @@
 Testfile.txt
 log/
+*.orig
+simple.html.orig
