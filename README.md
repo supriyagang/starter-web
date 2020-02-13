@@ -5,6 +5,7 @@ more from master to feature
 ## Introduction
 This is intro
 Adding a line for rebase
+more changes for rebase
 ## Purpose
 This is purpose for staging only
 ## Deployment
