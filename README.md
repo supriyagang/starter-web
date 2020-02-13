@@ -4,6 +4,7 @@ This is the starting
 more from master to feature
 ## Introduction
 This is intro
+Adding a line for rebase
 ## Purpose
 This is purpose for staging only
 ## Deployment
