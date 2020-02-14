@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <head>
-<<<<<<< HEAD
-	<title>A respectful websit</title >
-=======
-	<title>A great website</title >
->>>>>>> realwork
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -17,35 +12,34 @@
 </head>
 <body>
 	<!--
+	 Make changes before rebase
 	 Copyright notice goes here
 	-->
 	<main class="container">
 	<!-- Content Goes Here -->
 	<p>	To merge stuff
 	For stash stuff
+	several changes
 		
 		        Just some content
 			simple content to test
 			more content
 			suprani after changes in big trouble branch
 			After commit big troubl
-<<<<<<< HEAD
 			new changes
-=======
-			Lot more things for merge conflict
->>>>>>> realwork
+
+			More new content
 		</p>
 	</main>
 	<footer class="container">
 		These are changes in feature inviting big trouble
 		because of conflict
-<<<<<<< HEAD
-		<p>&copy; Company 2014 Supriya Gangolli</p>
 		<p>&copy; Company 2016 Supriya Gangolli</p>
+<<<<<<< HEAD
+		This is another one
 =======
-		<p>&copy; Company 2015 Supriya Gangolli</p>
-		<p>&copy; Company 2014 Supriya Gangolli</p>
->>>>>>> realwork
+		Several more copyright
+>>>>>>> fb adding in simple
 	</footer>
 </body>
 </html>
